@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Bfkotlinclient" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/title_jade</item>
+        <item name="colorPrimaryVariant">@color/background_light</item>
+        <item name="colorOnPrimary">@color/button_spring</item>
+        <item name="colorSecondary">@color/navigation_icons_sea_green</item>
+        <item name="colorSecondaryVariant">@color/description_gray</item>
+        <item name="colorOnSecondary">@color/navigation_bar_grayish</item>
+
+    </style>
+</resources>
